@@ -24,13 +24,10 @@ export const AboutContent = () => {
             <div className="absolute  w-[500px] ">
               <h1 className="text-xl font-medium">WHO WE ARE</h1>
               <h1 className="py-8 text-4xl font-semibold">
-                Beautiful landscapes and the farmers Who bring us our food
+              Empowering Minds, Enriching Lives: Our Journey to Wellness
               </h1>
               <p className="font-medium">
-              Farmi Technology Private Limited
-               - Innovators dedicated to empowering 
-               small-scale farmers through sustainable practices and cutting
-               -edge solutions, cultivating a thriving and sustainable future for agriculture.
+              CalmCare Solutions pioneers the fusion of AI technology with mental wellness support. Our mission is to make empathetic, personalized mental health care accessible to everyone, anywhere. With a focus on innovation and empathy, we're dedicated to empowering individuals towards a healthier, more balanced life.
                </p>
               <button className="font-medium mt-14 ml-40 p-4 px-6 rounded-full hover:bg-green-500 hover:text-white border-2 border-green-500">
                 About More
@@ -60,7 +57,7 @@ export const AboutContent = () => {
                   )}
                   +
                 </h1>
-                <p className="pt-3 font-medium pl-3">Tons of harvesta</p>
+                <p className="pt-3 font-medium pl-3">Wellness Journeys Started</p>
               </ScrollTrigger>
             </div>
 
@@ -75,7 +72,7 @@ export const AboutContent = () => {
                   )}
                   %
                 </h1>
-                <p className="pt-3 font-medium pl-1">Organic Product</p>
+                <p className="pt-3 font-medium pl-1"> Personalized Support</p>
               </ScrollTrigger>
             </div>
           </div>
@@ -89,9 +86,7 @@ export const AboutContent = () => {
               <div className=" py-20  ">
                 <h1 className="text-5xl font-semibold mb-14">Work with Us</h1>
                 <p className="text-base font-light">
-                Join our team of passionate individuals committed to making a difference in agriculture.
-                Together, we can drive innovation, create impact, and shape the future of farming.
-                Explore our career opportunities and be a part of the Farmi family!
+                Join our team of dedicated individuals transforming mental health care. Together, we drive innovation, create impact, and shape the future of wellness. Explore our career opportunities and be part of the CalmCare family!
                 </p>
                 <div className="mt-10">
                   <Accordion type="single" collapsible className="w-full">
@@ -100,7 +95,7 @@ export const AboutContent = () => {
                         Do I need a business plan?
                       </AccordionTrigger>
                       <AccordionContent className="text-base font-light">
-                      Absolutely! A business plan serves as a roadmap for your agricultural venture, outlining your goals, strategies, and financial projections. It provides clarity, attracts investors, and ensures a structured approach to achieving success in the competitive farming industry.
+                      While not always mandatory, a well-crafted business plan can serve as a roadmap for your venture, guiding decision-making, attracting investors, and ensuring long-term success.
                       </AccordionContent>
                     </AccordionItem>
                     <AccordionItem value="item-2">
@@ -108,7 +103,7 @@ export const AboutContent = () => {
                         How long should a business plan be?
                       </AccordionTrigger>
                       <AccordionContent className="text-base font-light">
-                      A concise and effective business plan typically ranges from 15 to 30 pages. Keep it focused on essential details like your mission, market analysis, and financial projections. Quality over quantity is key.
+                      The length of your business plan depends on various factors, but it typically ranges from 20 to 30 pages. Focus on including essential information while keeping it concise and impactful.
                       </AccordionContent>
                     </AccordionItem>
                     <AccordionItem value="item-3">
@@ -116,15 +111,15 @@ export const AboutContent = () => {
                         Where do I start?
                       </AccordionTrigger>
                       <AccordionContent className="text-base font-light">
-                      Starting your business journey begins with a well-crafted business plan. Identify your goals, understand your market, outline your strategies, and create a solid financial plan. It's the foundation for a successful and sustainable agricultural venture.
+                      Start by outlining your business idea, conducting market research, identifying your target audience, and defining your unique value proposition. From there, create sections covering your business model, marketing strategy, operations plan, and financial projections.
                       </AccordionContent>
                     </AccordionItem>
                     <AccordionItem value="item-4">
                       <AccordionTrigger className="text-lg font-semibold">
-                      Why Choose Farmi?
+                      Why Choose Calmcare?
                       </AccordionTrigger>
                       <AccordionContent className="text-base font-light">
-                      Farmi Technology Private Limited stands out as a beacon of innovation in the agricultural sector. Our commitment to sustainable farming, cutting-edge solutions, and personalized guidance sets us apart. Join us in revolutionizing agriculture and shaping a greener, smarter future.
+                      CalmCare Solutions leverages cutting-edge AI technology to provide personalized mental health support, ensuring tailored interventions and improved outcomes.
                       </AccordionContent>
                     </AccordionItem>
                   </Accordion>
@@ -134,16 +129,11 @@ export const AboutContent = () => {
           </div>
           <div className="absolute text-center top-[1650px]  text-white w-full h-[600px]">
             <div className="text-black bg-[#acacb8] container px-10">
-              <h1 className=" text-4xl font-bold py-10">Open Farm</h1>
+              <h1 className=" text-4xl font-bold py-10">Wellness Hub</h1>
               <p className="w-[70%] ml-[170px] font-medium pb-10 ">
-              Explore the possibilities of sustainable farming with Open Farm by Farmi.
-              Our platform invites farmers, enthusiasts, and communities to connect, share knowledge, and embrace the spirit of open agriculture.
-              Collaborate, learn, and grow together towards a more sustainable and bountiful future. 
-              Open Farm - where knowledge meets cultivation!
+              Discover a sanctuary for mental well-being with Wellness Hub by CalmCare Solutions. Our platform invites individuals, therapists, and communities to connect, share resources, and embark on a journey of self-discovery and growth. Collaborate, learn, and thrive together towards a healthier and more balanced life. Wellness Hub - where support meets empowerment!
               </p>
-            </div>
-            
-            
+            </div>            
           </div>
           <div className="absolute  top-[1900px] bg-[#7d7d90] text-white w-full h-[1040px]">
             <div className="text-center mt-10">

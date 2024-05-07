@@ -8,163 +8,163 @@ export default function page  () {
     <DashboardNav />
         <div className="py-20 bg-slate-200">
         <Link href="/videos"><button className="bg-green-500 py-3 px-5 font-semibold text-white  ml-3 rounded-2xl">Back</button></Link>
-        <h1 className="font-bold text-3xl text-center">Begin<span className="border-b-4 border-green-500">ner's Farming Esse</span>ntials</h1>
+        <h1 className="font-bold text-3xl text-center">Empower<span className="border-b-4 border-green-500">ment Talks: Personal Growth Discu</span>ssions</h1>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10 my-10 px-10 ">
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/IfHbTa4pB3c?si=t_lMd6ceOSwkqpb7"
+              src="https://www.youtube.com/embed/JE-7RkG3p4U?si=1bPn_OsRddPSuS2k"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">அதிக லாபம் தரும் ஐந்து அடுக்கு விவசாய முறை 🌳😍👌 A highly Profitable Five Layers Farming system 🌴😊</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">A Dynamic Prescription for Personal Growth | Chris Kent | TEDxYoungstown</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/zT1mThJ8J4Q?si=er1i-VfLilLxuDhG"
+              src="https://www.youtube.com/embed/uzDsT-25w14?si=DRHyV0Lfi1SGrHBK"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">Setting up Five layer farming in Tamil | Multi layer farming | ஐந்து அடுக்கு வேளாண்மை முறை</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">Personal Empowerment through Reflection and Learning | Dr. Craig Mertler | TEDxLakelandUniversity</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/nWpyziPt5Fo?si=GmAHeuWVNMDJtg9R"
+              src="https://www.youtube.com/embed/6DzyvX-wiH4?si=69WFqxtpcJ_U2WmQ"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">நிரந்தர வேளாண்மை | Permaculture | 20 சென்டில் 10 வகையான காய்கறிகள் | Permaculture Tamil</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">3 Self-Empowerment Truths That Will Set You Free | Dr. Sheena C. Howard | TEDxChestnutStreetStudio</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/mY_qlKIh5bE?si=YMFAyzL0-A0_cXeF"
+              src="https://www.youtube.com/embed/QijH4UAqGD8?si=jOZJLbRoU4_nNYeI"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">விவசாயத்திலும் அதிக லாபம் ஈட்ட முடியும்... IT தம்பதியின் அசத்தல் முயற்சி |</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">Get comfortable with being uncomfortable | Luvvie Ajayi Jones | TED</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/v0iZUqfpHvI?si=SjQv91SkPw8f_uF2"
+              src="https://www.youtube.com/embed/_BNDdamTDak?si=u75t2LETrh7PaVM_"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">Imam Pasand Mango | 110 ஏக்கர்... 6000 மரங்கள்... அசர வைக்கும் மனிதர் | Peninsula Organic Estate</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">Mel Robbins | One of the Best Talks Ever on Self-Motivation</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/OzEmVGylKqI?si=ixMpCzLTJrIZASCa"
+              src="https://www.youtube.com/embed/LnJwH_PZXnM?si=yXO3Hcb8YRLs2SeG"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">Best way to prune a mango tree | மா கவாத்தில் செய்யக் கூடாத தவறுகள் |</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">How not to take things personally? | Frederik Imbo | TEDxMechelen</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/DQxahTTzl2U?si=h0wGQEknU4-3dBSm"
+              src="https://www.youtube.com/embed/o3K_HbpWNpg?si=1zWX0K-YfF1bSZ9P"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">Coriander Farming in Tamil | கொத்தமல்லி சாகுபடி (விதைப்பு முதல் அறுவடை வரை) | Tamil Native Farmer</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">Think Fast. Talk Smart | Matt Abrahams | TEDxMontaVistaHighSchool</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/_9LBKOrcz1A?si=-wW4Ct6rpWxg5xkx"
+              src="https://www.youtube.com/embed/8S0FDjFBj8o?si=rsyopqr4HYE9lMZS"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">இயற்கை முறையில் மலை பூண்டு வளர்ப்பது எப்படி | Garlic Farming in Tamil | Tamil Native Farmer</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">How to sound smart in your TEDx Talk | Will Stephen | TEDxNewYork</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/4lo7uY-8mSo?si=1f7PvOzMeUUsufwQ"
+              src="https://www.youtube.com/embed/80UVjkcxGmA?si=NIfEMCqe6MS3zD76"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">Growing garlic ||Full time duration || Growing garlic at home || Simple way Vegetables</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">How I Overcame My Fear of Public Speaking | Danish Dhamani | TEDxKids@SMU</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/IOa6qznlYsI?si=k1G_Efl6quRxsBcb"
+              src="https://www.youtube.com/embed/w-HYZv6HzAs?si=g4O0CUrb4KkiUzwA"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">இஞ்சி சாகுபடி முறை - Ginger farming</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/PysIvvi1W7E?si=V8VMKHj4Q1TBekoa"
+              src="https://www.youtube.com/embed/whZ_J24qxB4?si=YL5QgHGlryq59h-1"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">Watermelon 🍉Harvesting in our farm|தர்பூசணி அறுவடை|watermelon cultivation to harvesting|Farmer'slife</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">Why we must confront the painful parts of US history</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/kXd8Glyb_pI?si=jjKvCGrQ45Hyg9AO"
+              src="https://www.youtube.com/embed/9vJRopau0g0?si=qp1BEvMX-vm8OynP"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">Mastering Pruning Techniques for Mango Trees 🥭</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/6Kl49DudTBk?si=WZrq584pfNk0CYq9"
+              src="https://www.youtube.com/embed/u0K_xcSqhxQ?si=2tAkGJSE3Nuiv5sg"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">Mango pruning. மா மரங்களில் கவாத்து</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">4 simple steps to writing a song | Ralph Covert | TEDxNaperville</h1>
           </div>
           
         </div>

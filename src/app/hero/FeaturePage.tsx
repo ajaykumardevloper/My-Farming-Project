@@ -19,10 +19,10 @@ export const FeaturePage = () => {
                 alt=""
               />
               <h1 className="my-2 text-center text-xl font-semibold">
-                100% Organic
+                100% Personalized Support
               </h1>
               <p className="text-center text-lg font-normal">
-              Embrace the pure essence of agriculture with our 100% organic commitment
+              Experience the future of mental wellness with our fully tailored solutions and compassionate guidance
               </p>
             </div>
             <div className="mb-5">
@@ -32,22 +32,21 @@ export const FeaturePage = () => {
                 alt=""
               />
               <h1 className="my-2 text-center text-xl font-semibold">
-              Sustainable Farming Practices
+              100% Empathetic Assistance
               </h1>
               <p className="text-center text-lg font-normal">
-              Discover eco-friendly methods from seed to harvest. Prioritize sustainability with our expert guidance.
+              Embrace a new era of mental wellness with our heartfelt support and personalized care
               </p>
             </div>
           </div>
 
           <div className="bg-blue-200 rounded-xl md:w-[100%] h-2/4 shadow-lg">
             <p className="p-10 text-center text-xl font-semibold">
-            Our features are designed to elevate your farming experience.
-            Our AI-powered assistance provides personalized guidance, ensuring efficient crop management.
-            Explore our educational video hub for a wealth of agricultural knowledge.
-            Embrace sustainable solutions, receiving expert recommendations for eco-friendly practices. 
-            Benefit from real-time insights, empowering informed decision-making.
-             Choose us for a farming journey marked by intelligence, sustainability, and success.
+            Dive into personalized guidance with our AI-powered assistance, tailored to your unique needs.
+Discover a wealth of mental health knowledge through our educational video hub.
+Embrace sustainable practices with expert recommendations for holistic well-being.
+Gain real-time insights for informed decision-making and empowered self-care.
+Choose us for a mental wellness journey marked by empathy, empowerment, and success.
             </p>
             <img
               className="mx-auto pb-5 md:w-96"
@@ -63,10 +62,10 @@ export const FeaturePage = () => {
                 alt=""
               />
               <h1 className="my-2 text-center text-xl font-semibold">
-              AI-Powered Precision
+              100% Tailored Solutions
               </h1>
               <p className="text-center text-lg font-normal">
-              Experience farming with precision using our AI-powered assistance. Tailored guidance for optimal results.
+              Enter the realm of personalized mental wellness with our customized features and individualized support
               </p>
             </div>
             <div className="">
@@ -76,10 +75,10 @@ export const FeaturePage = () => {
                 alt=""
               />
               <h1 className="my-2 text-center text-xl font-semibold">
-              Real-Time Insights for Smart Farming
+              100% Compassionate Care
               </h1>
               <p className="text-center text-lg font-normal">
-              Stay ahead in your farming journey with real-time insights. Informed decision-making for a more productive farm.
+              Experience unparalleled empathy and understanding with our heartfelt support and personalized solutions
               </p>
             </div>
           </div>

@@ -36,7 +36,7 @@ export default function page() {
               />
             </svg>
             <h1 className="pl-2  text-green-400 hover:text-green-700">
-              Contect Us
+              Contact Us
             </h1>
           </div>
         </div>
@@ -53,7 +53,7 @@ export default function page() {
                     Need Help? Open a Ticket
                   </h2>
                   <p className="mb-12 text-base font-medium text-body-color">
-                  Open a ticket for prompt assistance. Your farming success is our priority!
+                  Open a ticket for prompt assistance - your mental wellness is our priority!
                   </p>
                   <form>
                     <div className="-mx-4 flex flex-wrap">
@@ -104,10 +104,9 @@ export default function page() {
                         </div>
                       </div>
                       <div className="w-full px-4">
-                        <button className="rounded-sm bg-primary px-9 py-4 text-base font-medium text-white shadow-submit duration-300 hover:bg-primary/90 dark:shadow-submit-dark">
-                          Submit Ticket
-                        </button>
-                  
+                      <button className="rounded-sm bg-blue-500 px-9 py-4 text-base font-medium text-white shadow-submit duration-300 hover:bg-blue-600 dark:shadow-submit-dark">
+                      Submit Ticket
+                  </button>   
                       </div>
                     </div>
                   </form>

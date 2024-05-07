@@ -15,7 +15,7 @@ export default function page() {
             MEET <span className="border-b-4 border-green-500">THE</span> TEAM
           </h1>
           <p className="text-center mt-5">
-          Meet the passionate minds driving Farmi Technology's vision of transforming agriculture
+          Meet the dedicated team behind CalmCare Solutions mission to revolutionize mental wellness
           </p>
         </div>
         <div className="grid grid-cols-4 my-10 mx-10 gap-8 m">
@@ -25,10 +25,10 @@ export default function page() {
               className="rounded-full h-64 w-64 object-cover drop-shadow-2xl border-2 border-black p-2"
               alt=""
             />
-            <h1 className="font-bold text-xl text-center mt-3">AjayKumar</h1>
-            <p className="my-3 text-center">Founder & CEO</p>
+            <h1 className="font-bold text-xl text-center mt-3">Hemasutha</h1>
+            <p className="my-3 text-center">CEO and Co-Founder</p>
             <p className="my-1 text-center">
-            Visionary leader propelling Farmi Tech toward sustainable, tech-driven agriculture.
+            Leading the charge in redefining mental health care through innovative technology and compassionate leadership.
             </p>
             <div className="grid grid-cols-3 pl-10 items justify-item-center my-6">
               <a href="https://www.facebook.com/profile.php?id=100010343448379/">
@@ -61,10 +61,10 @@ export default function page() {
               className="rounded-full h-64 w-64 object-cover drop-shadow-2xl border-2 border-black p-2"
               alt=""
             />
-            <h1 className="font-bold text-xl text-center mt-3">Suriyaprakash</h1>
-            <p className="my-3 text-center">Chief Agricultural Scientist</p>
+            <h1 className="font-bold text-xl text-center mt-3">Kalaiselvi</h1>
+            <p className="my-3 text-center">Chief Medical Officer</p>
             <p className="my-1 text-center">
-            Expert in blending cutting-edge technology with sustainable farming practices.
+            Bringing medical expertise and a deep understanding of mental health to guide the development of effective interventions.
             </p>
             <div className="grid grid-cols-3 pl-10 items justify-item-center my-6">
               <a href="https://www.youtube.com/">
@@ -97,10 +97,10 @@ export default function page() {
               className="rounded-full h-64 w-64 object-cover drop-shadow-2xl border-2 border-black p-2"
               alt=""
             />
-            <h1 className="font-bold text-xl text-center mt-3">Manielstephan</h1>
-            <p className="my-3 text-center">Lead Developer</p>
+            <h1 className="font-bold text-xl text-center mt-3">Santhoshkumar</h1>
+            <p className="my-3 text-center">Lead Data Scientist</p>
             <p className="my-1 text-center">
-            Drives innovation through user-friendly AI tools, transforming farming practices.
+            Leveraging data analytics and machine learning to uncover insights and enhance the effectiveness of our personalized support.
             </p>
             <div className="grid grid-cols-3 pl-10 items justify-item-center my-6">
               <a href="https://www.youtube.com/">

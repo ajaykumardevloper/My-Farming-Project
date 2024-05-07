@@ -8,164 +8,164 @@ export default function page  () {
     <DashboardNav />
         <div className="py-20 bg-slate-200">
         <Link href="/videos"><button className="bg-green-500 py-3 px-5 font-semibold text-white  ml-3 rounded-2xl">Back</button></Link>
-        <h1 className="font-bold text-3xl text-center">Harves<span className="border-b-4 border-green-500">ting Tips for Terrace </span> Garden</h1>
+        <h1 className="font-bold text-3xl text-center">Men<span className="border-b-4 border-green-500">tal Health Matters: Expert Insig</span>hts</h1>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10 my-10 px-10 ">
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/dQkoejmOVik?si=lstQO8rt8RWGrxe1"
+              src="https://www.youtube.com/embed/_x2U1_zX7Lw?si=1lLTdhgEEAi85irT"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">நம்ம மாடித்தோட்டத்தில் ஒரு மகத்தான அறுவடை | HARVESTING ORGANIC VEGETABLES IN OUR TERRACE GARDEN</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">Expert Insights: How is the COVID-19 pandemic affecting our mental health?</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/RMSPcwUANd4?si=2b1IdqWTJpUC_Xhn"
+              src="https://www.youtube.com/embed/F6gbfWSV_P8?si=AGmdU9sSw8SEDNcw"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">மாடி தோட்டம் எப்படி விதை விதைப்பது || Garden TouR || Maadi Thottam || Terrace Garden</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">Expert Insights | Mental Health Claims</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/UAX61MAPRZI?si=CKjDFFU39aj7rx_0"
+              src="https://www.youtube.com/embed/4myQMIw4Kyg?si=pt_r-2uRIhbhTdaN"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">Massive Harvesting Of Pure Organic Veggies From My Terrace Garden//Harvesting Organic Vegetables</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">Mental Health Matters: Conquer Depression with Expert Insights</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/b7AjWtpJ3fw?si=6qFoGM31877sidEi"
+              src="https://www.youtube.com/embed/GE_2bGi0uSI?si=mM7fdvwSUbLKU8SM"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">Garden Vegetables Steffi Ulagam | Harvesting Vegetgables from Home Garden in Tamil</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">Understanding the Link Between Social Media and Mental Health: Expert Insights</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/5rEvliFyL1Q?si=K0F3haojRNvgpjN7"
+              src="https://www.youtube.com/embed/ddxgMvgZmoQ?si=i6Un0_SQrci3Mrl2"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">முருங்கை காய் கோவை காய் தக்காளி மற்றும் காய்கறிகள் அறுவடை @MaadithottamSachu</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">Stress-Free Living: Insights from Mental Health Experts</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/t1tLf87AEUk?si=YDckkO7zP5_Ww-c6"
+              src="https://www.youtube.com/embed/30kJc_EWeM4?si=sngjTKG3-8aQ1El0"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">மாடி தோட்டம் காய்கள் கொத்து கொத்தாக காய்க்க உரம் இப்படி கொடுக்கணும்🏡Maadi thottamfertilizerforplants
+            <h1 className="mt-2 pl-3 font-semibold text-xl">Mental health and Special Needs can Overlap: Expert Insights to Help
             </h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/CmvvZF3unqY?si=pn0Ty6l_UGI3O0jd"
+              src="https://www.youtube.com/embed/fU8s97rlBRs?si=8deaomURrBerCU55"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">மாடித் தோட்டத்தில் தக்காளி வளர்ப்பு - How to Grow Tomatoes in Terrace Garden - Tamil</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">Decoding Health vs Fitness: What Truly Matters?</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/1hyvtCeHuMg?si=p1TG31r1yAG-9f27"
+              src="https://www.youtube.com/embed/r3esYTaVwY4?si=9d8dO7hA8vRY8fZ6"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">கருப்பு தக்காளி லைபீரியா தக்காளி குடம் தக்காளி நெய் மிளகாய் அறுவடை @Maadithottam</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">Expert Insights: COVID-19 and its impact on Mental Health in Gulf Societies</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/X5qHQDPR97E?si=6dW1OFeRy-DsK8Ku"
+              src="https://www.youtube.com/embed/2l4ZjK9Qqys?si=tX73wgR6HLajWvNS"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">தொப்பி கத்தரி கருப்பு கத்திரி குடம் தக்காளி அறுவடை|Biggest Harvest|மாடி தோட்டம்@Maadithottam</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">Expert panel talks mental health</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/62BgFeIwMjY?si=Lo73CrCUfXc6evZU"
+              src="https://www.youtube.com/embed/5A500CUgzUg?si=nhUZ3OYaAfcOj8Vs"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">வெள்ளை மிளகாய் மாதுளை வெண்பூசணி மற்றும் காய்கறிகள் அறுவடை|Garden Harvest</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">Can YOU HEAL 82% of Dementia? Expert Insights (DO THIS) || Dr Eric Berg | Dr Alan Mandell</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/KcC4mDcGqK8?si=uMiiysRCt0o01LU9"
+              src="https://www.youtube.com/embed/VCgyoh3vww4?si=R0ExWTr-z2q7K74F"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">Verity Tomato And Vegetables harvest In Terrace Garden|மாடி தோட்டம் @Maadithottam</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">Top-to-bottom changes to mental health system needed, says expert</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/0JKtRKeDBbk?si=2CQ-Iqt7CreHCYvt"
+              src="https://www.youtube.com/embed/FN0_ow76hU8?si=zTg0qJ3LZRB8T06d"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">கருணை கிழங்கு மற்றும் காய்கறிகள் அறுவடை @Maadithottam</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">The Mental Health Doctor: Your Phone Screen & Sitting Is Destroying Your Brain!</h1>
           </div>
           <div className="">
             <iframe
               width="360"
               height="215"
-              src="https://www.youtube.com/embed/CqTotrPm1gQ?si=cxNfW6AhLXXX5teF"
+              src="https://www.youtube.com/embed/d1sVO6x9p5U?si=SZP1wbxYupfe-Yiy"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
-            <h1 className="mt-2 pl-3 font-semibold text-xl">கொடி உருளை சிறகு அவரை கும்குவாட் அறுவடை | Garden Update|Terrace Garden</h1>
+            <h1 className="mt-2 pl-3 font-semibold text-xl">4 Truths About Mental Health | How To Deal With Depression | Ranveer Allahbadia</h1>
           </div>
           
         </div>

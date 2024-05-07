@@ -8,13 +8,13 @@ export const FooterLast = () => {
           <div className="p-5 lg:p-10 w-full md:w-1/3">
             <h2 className="font-extrabold text-2xl">Our Company Policy</h2>
             <p className="text-gray-400 mt-3">
-            At Farmi Technology, we prioritize transparency, sustainability, and customer satisfaction. Our commitment to ethical practices and environmental responsibility guides every operation. We strive for innovative solutions with the highest integrity, ensuring a positive impact on customers and the world.
+            At CalmCare Solutions, we uphold a commitment to transparency, sustainability, and user satisfaction. Our ethical practices and environmental responsibility are paramount in every aspect of our operations. We pursue innovative solutions with unwavering integrity, aiming for a positive impact on our users and the global community.
             </p>
           </div>
           <div className="p-5 lg:p-10 w-full md:w-1/3">
             <h2 className="font-extrabold text-xl">Address</h2>
             <p className="text-gray-400 mt-3">
-            FARMI TECHNOLOGY PRIVATE LIMITED<br />
+            CALMCARE SOLUTION PRIVATE LIMITED<br />
             ULTRA NAGAR,<br />
             MADURAI,TAMILNADU.<br />
               Pin-625104
@@ -23,9 +23,9 @@ export const FooterLast = () => {
           <div className="p-5 lg:p-10 w-full md:w-1/3">
             <h2 className="font-extrabold text-xl">Inquiries</h2>
             <p className="text-gray-400 mt-3">
-              <a href="tel:+91000000000">+917502522887</a>
+              <a href="tel:+91000000000">+918610903939</a>
               <br />
-              <a href="mailto:contact@gmail.com">farmitech@gmail.com</a>
+              <a href="mailto:contact@gmail.com">calmcaresolution@gmail.com</a>
             </p>
             <ul className="flex mt-4">
               <li className="p-2 bg-white shadow rounded-xl mx-1">
@@ -102,7 +102,7 @@ export const FooterLast = () => {
           </div>
         </div>
         <div className="text-center text-gray-500 border-t border-gray-500 pt-3">
-          © FARMI TECHNOLOGY PRIVATE LIMITED. All Rights Reserved. Designed by Ajaykumar
+          © CALMCARE SOLUTION PRIVATE LIMITED. All Rights Reserved. Designed by Hemasutha
         </div>
         </footer>
     </>

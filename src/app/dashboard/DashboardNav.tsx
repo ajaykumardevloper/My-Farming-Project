@@ -44,13 +44,13 @@ export function DashboardNav() {
         <DropdownMenuContent className=" cursor-pointer w-36">
           <DropdownMenuGroup>
             <Link href="/blogs">
-              <DropdownMenuItem>FarmingHub</DropdownMenuItem>
+              <DropdownMenuItem>Mental Wellness Hub</DropdownMenuItem>
             </Link>
             <Link href="/videos">
-              <DropdownMenuItem>FarmiTube</DropdownMenuItem>
+              <DropdownMenuItem>Mental Wellness TV</DropdownMenuItem>
             </Link>
             <Link href="/shopping">
-              <DropdownMenuItem>TerraceHarvest Market</DropdownMenuItem>
+              <DropdownMenuItem>Mindful Market</DropdownMenuItem>
             </Link>
 
           </DropdownMenuGroup>

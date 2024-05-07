@@ -13,13 +13,10 @@ export const AboutPage = () => {
           />
           <div className="">
             <h1 className="font-bold text-5xl py-5">
-              We Produce Organic Food For Your Family
+            Empowering Mental Wellness Through Technology
             </h1>
             <p className="font-medium text-lg">
-            We're dedicated to revolutionizing agriculture with smart solutions.
-            Our mission is to empower small-scale farmers through AI-driven technology, 
-            providing personalized guidance, sustainable practices, and expert insights.
-             Join us in cultivating a greener, smarter, and more abundant future for all.
+            At CalmCare Solutions, we're committed to transforming mental health care with innovative technology. Our mission is to provide personalized support, actionable insights, and compassionate guidance to individuals on their wellness journey. Join us in fostering a healthier, happier, and more connected world for all.
             </p>
             <div className="flex gap-2 ">
               <div className="p-3 ">
@@ -29,9 +26,9 @@ export const AboutPage = () => {
                   alt=""
                 />
                 <div className="bg-slate-500 text-white p-5 rounded-2xl my-5">
-                  <h2 className="font-bold text-2xl">100% Organic</h2>
+                  <h2 className="font-bold text-2xl">AI-Powered Wellness</h2>
                   <p className="font-normal text-lg">
-                  Seed to harvest, we prioritize natural, sustainable methods,enhancing crop and environmental health.Embrace pure agriculture; our products attest to organic excellence.
+                  Harnessing the latest advancements in AI, our technology delivers personalized, effective mental health support. Embrace the future of wellness; our solutions redefine mental health care excellence.
                   </p>
                 </div>
               </div>
@@ -42,9 +39,9 @@ export const AboutPage = () => {
                   alt=""
                 />
                 <div className="bg-slate-500 text-white p-5s rounded-2xl my-5">
-                  <h2 className="font-bold text-2xl">100% Organic</h2>
+                  <h2 className="font-bold text-2xl">Empowering Minds</h2>
                   <p className="font-normal text-lg">
-                  Purely organic, prioritizing natural, sustainable methods, from seed to harvest. Our commitment to eco-friendly farming ensures the health of crops, the environment, and your well-being
+                  With cutting-edge technology, we empower individuals to achieve mental wellness and personal growth. Embrace the future of mental health; our solutions redefine support and empowerment.
                   </p>
                 </div>
               </div>
