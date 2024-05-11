@@ -12,10 +12,12 @@ export default function Home() {
   return (
    <>
     {/* <IndexPage/> */}
+
     <Slider/>
     <AboutPage/>
     <FeaturePage/>
     <FooterLast/>
+
    </>
   );
 }

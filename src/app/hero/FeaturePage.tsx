@@ -3,7 +3,7 @@ import React from "react";
 export const FeaturePage = () => {
   return (
     <>
-      <div className="bg-green-300  mt-10 mx-5 shadow-xl rounded-2xl p-5">
+      <div className="bg-blue-600  mt-10 mx-5 shadow-xl rounded-2xl p-5">
         <h3 className="text-center text-6xl font-bold py-3 text-white">
           Our Features
         </h3>
@@ -49,8 +49,8 @@ Gain real-time insights for informed decision-making and empowered self-care.
 Choose us for a mental wellness journey marked by empathy, empowerment, and success.
             </p>
             <img
-              className="mx-auto pb-5 md:w-96"
-              src="images/feature.png"
+              className=" h-60 w-full  "
+              src="https://fastcdn.impakter.com/wp-content/uploads/2020/06/Empower-.jpg?strip=all&lossy=0&quality=92&sharp=1&ssl=1"
               alt=""
             />
           </div>

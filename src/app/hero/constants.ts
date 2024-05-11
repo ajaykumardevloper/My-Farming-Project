@@ -29,6 +29,5 @@ export const images = [
       title: "HarvestHub",
       desc: "HarvestHub - Your AI farming ally. Boost yields, receive expert tips, and cultivate a greener tomorrow.",
     },
- 
   ];
   

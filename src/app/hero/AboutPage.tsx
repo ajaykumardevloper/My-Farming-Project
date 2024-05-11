@@ -3,12 +3,12 @@ import React from 'react'
 export const AboutPage = () => {
   return (
     <>
-        <section id="" className="mt-10 mx-5 shadow-xl rounded-2xl p-5 text-black bg-slate-300">
+        <section id="" className="mt-10 mx-5 shadow-xl rounded-2xl p-5 text-black bg-blue-300">
         <h1 className="text-center text-3xl font-bold py-5">About Us</h1>
         <div className="lg:flex gap-5 items-start">
           <img
-            className="sm:w-screen lg:w-auto sm:mb-5 border-8 p-5 border-green-500"
-            src="images/about.png"
+            className="sm:w-screen lg:w-auto sm:mb-5 border-8 p-5 h-[600px] border-blue-500 rounded-xl"
+            src="https://th.bing.com/th/id/OIP.PEBnySHOAlVybamtKacFswAAAA?pid=ImgDet&w=208&h=256&c=7&dpr=1.5"
             alt=""
           />
           <div className="">
@@ -38,10 +38,10 @@ export const AboutPage = () => {
                   src="images/sprout_346195.png"
                   alt=""
                 />
-                <div className="bg-slate-500 text-white p-5s rounded-2xl my-5">
+                <div className="bg-slate-500 text-white p-5 rounded-2xl my-5">
                   <h2 className="font-bold text-2xl">Empowering Minds</h2>
                   <p className="font-normal text-lg">
-                  With cutting-edge technology, we empower individuals to achieve mental wellness and personal growth. Embrace the future of mental health; our solutions redefine support and empowerment.
+                  With cutting-edge technology, we empower individuals to achieve mental wellness and personal growth. Embrace the future of mental health; our solutions redefine 
                   </p>
                 </div>
               </div>

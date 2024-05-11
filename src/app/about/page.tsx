@@ -9,9 +9,9 @@ export default function about() {
     <>
       <DashboardNav />
       
-      <div className="fixed -z-[99px] top-10 w-full ">
+      <div className="fixed  -z-[99px] top-10 w-full ">
         <video autoPlay loop muted >
-          <source src="/About1.mp4" type="video/mp4" />
+          <source src="/video.mp4" type="video/mp4" />
         </video>
         {/* <img src="/about.jpg" alt="" className="h-[] w-full object-cover" /> */}
         <div className="absolute flex justify-center items-center top-20 ">

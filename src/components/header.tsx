@@ -12,7 +12,7 @@ export default async function Header() {
         <div className="container  flex items-center justify-between">
           <div className="text-black my-2">
           <Link href="/dashboard">
-          <img src="Header/logo.png" alt="" className="bg-green-500 hover:bg-green-400 rounded-xl py-2 h-12 p-3" />
+          <img src="https://calmcareinc.org/wp-content/uploads/2020/01/Calm-Care-Inc-Logo-1-1.png" alt="" className=" rounded-xl py-2 pt-3 w-20 " />
           </Link>
           </div>
           <div className="flex items-center gap-x-5 ">

@@ -16,7 +16,7 @@ export const AboutContent = () => {
   return (
     <>
       <div>
-        <div className="  relative top-[500px]  w-full bg-white h-[900px]">
+        <div className="  relative top-[500px]  w-full bg-blue-300 h-[900px]">
           <div className="absolute right-0 top-[400px] h-96 w-[650px] blur-sm">
             <img src="images/a3.png" alt="" className="" />
           </div>
@@ -29,17 +29,17 @@ export const AboutContent = () => {
               <p className="font-medium">
               CalmCare Solutions pioneers the fusion of AI technology with mental wellness support. Our mission is to make empathetic, personalized mental health care accessible to everyone, anywhere. With a focus on innovation and empathy, we're dedicated to empowering individuals towards a healthier, more balanced life.
                </p>
-              <button className="font-medium mt-14 ml-40 p-4 px-6 rounded-full hover:bg-green-500 hover:text-white border-2 border-green-500">
+              <button className="font-medium mt-8 ml-40 p-4 px-6 rounded-full hover:bg-blue-500 hover:text-white border-2 border-blue-500">
                 About More
               </button>
             </div>
             <div className="left-[530px] top-10 relative h-[500px] w-[400px] drop-shadow-xl ">
-              <img src="images/a1.jpg" alt="" className="drop-shadow-xl" />
+              <img src="https://th.bing.com/th/id/OIP.Rs1Adgpig7QdbMzsJMscygHaE8?rs=1&pid=ImgDetMain" alt="" className="drop-shadow-xl h-96" />
               <div className="absolute h-60 w-60 -top-20 -right-20 p-4 bg-gray-100 rounded-full shadow-2xl">
                 <img
-                  src="images/a2.jpg"
+                  src="https://cdn.fs.teachablecdn.com/MzjvkqYnRfyXU1yjw2u8"
                   alt=""
-                  className="shadow-3xl rounded-full shadow-2xl"
+                  className="shadow-3xl  rounded-full shadow-2xl"
                 />
               </div>
             </div>
@@ -76,7 +76,7 @@ export const AboutContent = () => {
               </ScrollTrigger>
             </div>
           </div>
-          <div className="absolute px-10 pt-20 top-[90%] z-99 bg-slate-200 w-full h-[850px]">
+          <div className="absolute px-10 pt-20 top-[90%] z-99 bg-blue-600 text-white w-full h-[850px]">
             <div className=" flex justify-between  gap-32 ">
               <img
                 src="images/a4.png"
@@ -84,7 +84,7 @@ export const AboutContent = () => {
                 alt=""
               />
               <div className=" py-20  ">
-                <h1 className="text-5xl font-semibold mb-14">Work with Us</h1>
+                <h1 className="text-7xl font-bold mb-14">Work with Us</h1>
                 <p className="text-base font-light">
                 Join our team of dedicated individuals transforming mental health care. Together, we drive innovation, create impact, and shape the future of wellness. Explore our career opportunities and be part of the CalmCare family!
                 </p>
@@ -128,14 +128,14 @@ export const AboutContent = () => {
             </div>
           </div>
           <div className="absolute text-center top-[1650px]  text-white w-full h-[600px]">
-            <div className="text-black bg-[#acacb8] container px-10">
+            <div className=" bg-[#4040df] container px-10">
               <h1 className=" text-4xl font-bold py-10">Wellness Hub</h1>
               <p className="w-[70%] ml-[170px] font-medium pb-10 ">
               Discover a sanctuary for mental well-being with Wellness Hub by CalmCare Solutions. Our platform invites individuals, therapists, and communities to connect, share resources, and embark on a journey of self-discovery and growth. Collaborate, learn, and thrive together towards a healthier and more balanced life. Wellness Hub - where support meets empowerment!
               </p>
             </div>            
           </div>
-          <div className="absolute  top-[1900px] bg-[#7d7d90] text-white w-full h-[1040px]">
+          <div className="absolute  top-[1900px] bg-blue-800 text-white w-full h-[1080px]">
             <div className="text-center mt-10">
               <h1 className="mb-7 text-2xl font-medium">OUR GALLERY</h1>
               <h2 className="text-5xl font-semibold">
